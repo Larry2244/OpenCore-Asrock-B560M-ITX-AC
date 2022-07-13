@@ -18,3 +18,5 @@ CPU：i9 10900ES（QTB1）
 OpenCore版本：0.8.0
 
 Mac版本：12.4
+
+目前为了便于扩展RAM和硬盘，本人已更换Asrock Z490m Pro4，本帖停更
